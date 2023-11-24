@@ -21,7 +21,7 @@
     "tailwind-styled-components": "^2.2.0",
     "vis-data": "^7.1.6",
     "vis-network": "^9.1.6",
-    "zod": "^3.21.4"
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "@types/eslint": "^8.37.0",
