@@ -15,7 +15,7 @@
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@prisma/client": "^5.1.1",
     "@t3-oss/env-nextjs": "^0.3.1",
-    "next": "^13.4.2",
+    "next": "^13.5.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwind-styled-components": "^2.2.0",
